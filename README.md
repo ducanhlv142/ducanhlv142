@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" height="50"/>
 </h1> 
 <h3 align="center">
-  I'm learning Software Engineering in HaUI
+  I'm learning Software Engineering in FPT University
 </h3>
 <p align="center">
   <img src="https://media0.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="200" height="50"/> 
