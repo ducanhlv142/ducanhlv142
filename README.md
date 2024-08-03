@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">
   <img src="http://petxinh.weebly.com/uploads/1/3/1/7/131737961/09ba6dbf97bdb9c01eac30f08896b959.gif" width="50" height="50"/>
-  I'm Kun 
+  I'm Kolf 
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" height="50"/>
 </h1> 
 <h3 align="center">
