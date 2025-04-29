@@ -1,17 +1,14 @@
-<h1 align="center">
-  Hi there, I'm KolfLDA 👋
-</h1>
+<h1 align="center">Hi there, I'm KolfLDA 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100" />
-</p>
-
-<p align="center">
+  <a href="mailto:ducanhlv142@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
   <a href="https://linkedin.com/in/duc-le-264820251" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://fb.com/ducanhlv.kun" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </p>
 
@@ -36,6 +33,7 @@ I'm a passionate software engineering student at FPT University in Da Nang, Viet
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MQL5](https://img.shields.io/badge/MQL5-0088CC?style=for-the-badge&logo=metaquotes&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -59,8 +57,9 @@ I'm a passionate software engineering student at FPT University in Da Nang, Viet
 
 Feel free to reach out for collaborations or just a friendly chat:
 
-- LinkedIn: [Duc Le](https://linkedin.com/in/duc-le-264820251)
-- Facebook: [ducanhlv.kun](https://fb.com/ducanhlv.kun)
+- 📧 Email: [ducanhlv142@gmail.com](mailto:ducanhlv142@gmail.com)
+- 💼 LinkedIn: [Duc Le](https://linkedin.com/in/duc-le-264820251)
+- 🌐 Facebook: [ducanhlv.kun](https://fb.com/ducanhlv.kun)
 
 ---
 
