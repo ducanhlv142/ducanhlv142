@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/duc-le-264820251" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://fb.com/ducanhlv.kun" target="_blank">
+  <a href="https://fb.com/ducanhlv.kolf142" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </p>
@@ -59,7 +59,7 @@ Feel free to reach out for collaborations or just a friendly chat:
 
 - 📧 Email: [ducanhlv142@gmail.com](mailto:ducanhlv142@gmail.com)
 - 💼 LinkedIn: [Duc Le](https://linkedin.com/in/duc-le-264820251)
-- 🌐 Facebook: [ducanhlv.kun](https://fb.com/ducanhlv.kun)
+- 🌐 Facebook: [ducanhlv.kolf142](https://fb.com/ducanhlv.kolf142)
 
 ---
 
